@@ -31,11 +31,11 @@
 ### 🌐 Bana Ulaş
 
 <p align="center">
-  <a href="https://linkedin.com/in/YunusEmreDemirdag">
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yunusemre.demirdag@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/#inbox)" />
   </a>
 </p>
 
