@@ -23,7 +23,7 @@
 ### 🌐 İletişim
 
 <p align="center">
-  <a href="https://linkedin.com/in/YunusEmreDemirdag">
+  <a href="[https://linkedin.com/in/YunusEmreDemirdag](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
