@@ -6,7 +6,7 @@
 ### 🧠 Hakkımda
 
 - 🚀 Web ve mobil teknolojilerle modern, ölçeklenebilir uygulamalar geliştiriyorum.  
-- 💡 İlgi alanlarım: **React**, **Node.js**, **C#**, **Flutter**, **SQL**  
+- 💡 İlgi alanlarım:**Html**, **CSS**, **JavaScript**, **React**, **Node.js**, **C#**, **Flutter**, **SQL**  
 - 🎯 Amacım: Kullanıcı deneyimi güçlü, performanslı yazılımlar üretmek.  
 
 ---
